@@ -5,10 +5,7 @@ import MainLayout from 'layout/MainLayout';
 import Loadable from 'ui-component/Loadable';
 import DriverView from '../views/DriverView';
 import { ImportExport } from '@mui/icons-material';
-<<<<<<< HEAD
 import Schedules from '../views/Schedules';
-=======
->>>>>>> 50aee26ee41309eee8d419ec36916c3ef6a9d0fa
 
 
 // dashboard routing
@@ -63,11 +60,7 @@ const Chat = Loadable(lazy(()=> import('../views/Chat')));
 const  EmployeeRole = Loadable(lazy(()=> import('../views/EmployeeRole')));
 const AddEmployee= Loadable(lazy(()=> import('../views/AddEmployee')));
 const EmployeeList = Loadable(lazy(()=> import('../views/EmployeeList')));
-<<<<<<< HEAD
 //profile
-=======
-
->>>>>>> 50aee26ee41309eee8d419ec36916c3ef6a9d0fa
 
 // sample page routing
 const SamplePage = Loadable(lazy(() => import('views/sample-page')));
@@ -128,7 +121,6 @@ const MainRoutes = {
         {
           path: 'payment-failed',
           element: <PaymentFailed />
-<<<<<<< HEAD
         }
       ]
     },
@@ -290,8 +282,6 @@ const MainRoutes = {
         {
           path: '/employee/list',
           element: <EmployeeList/>
-=======
->>>>>>> 50aee26ee41309eee8d419ec36916c3ef6a9d0fa
         }
       ]
     },

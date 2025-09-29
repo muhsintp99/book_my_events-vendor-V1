@@ -30,7 +30,6 @@ const Reportsection = {
       icon: icons.IconUserPlus,
       breadcrumbs: false
     },
-<<<<<<< HEAD
     // {
     //   id: 'Disbursement-Method',
     //   title: 'Disbursement Method',
@@ -39,16 +38,6 @@ const Reportsection = {
     //   icon: icons.IconUserCheck,
     //   breadcrumbs: false
     // },
-=======
-    {
-      id: 'Disbursement-Method',
-      title: 'Disbursement Method',
-      type: 'item',
-      url: '/report/disburse',
-      icon: icons.IconUserCheck,
-      breadcrumbs: false
-    },
->>>>>>> 50aee26ee41309eee8d419ec36916c3ef6a9d0fa
     {
       id: 'Trip-Report',
       title: 'Trip Report',
@@ -57,7 +46,6 @@ const Reportsection = {
       icon: icons.IconUsers,
       breadcrumbs: false
     },
-<<<<<<< HEAD
     // {
     //   id: 'Vat-Report',
     //   title: 'Vat Report',
@@ -74,24 +62,6 @@ const Reportsection = {
     //   icon: icons.IconDownload,
     //   breadcrumbs: false
     // }
-=======
-    {
-      id: 'Vat-Report',
-      title: 'Vat Report',
-      type: 'item',
-      url: '/report/vat',
-      icon: icons.IconUpload,
-      breadcrumbs: false
-    },
-    {
-      id: 'bulk-export',
-      title: 'Bulk Export',
-      type: 'item',
-      url: '/providers/export',
-      icon: icons.IconDownload,
-      breadcrumbs: false
-    }
->>>>>>> 50aee26ee41309eee8d419ec36916c3ef6a9d0fa
   ]
 };
 

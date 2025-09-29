@@ -71,25 +71,6 @@ const Businesssection = {
     //   breadcrumbs: false
     // },
     {
-<<<<<<< HEAD
-=======
-      id: 'My-Wallet',
-      title: 'My Wallet',
-      type: 'item',
-      url: '/business/export',
-      icon: icons.IconDownload,
-      breadcrumbs: false
-    },
-     {
-      id: 'Disbursement-Method',
-      title: 'Disbursement Method',
-      type: 'item',
-      url: '/business/disburse',
-      icon: icons.IconDownload,
-      breadcrumbs: false
-    },
-     {
->>>>>>> 50aee26ee41309eee8d419ec36916c3ef6a9d0fa
       id: 'Reviews',
       title: 'Reviews',
       type: 'item',
@@ -97,7 +78,6 @@ const Businesssection = {
       icon: icons.IconDownload,
       breadcrumbs: false
     },
-<<<<<<< HEAD
     // {
     //   id: 'Chat',
     //   title: 'Chat',
@@ -106,16 +86,6 @@ const Businesssection = {
     //   icon: icons.IconDownload,
     //   breadcrumbs: false
     // }
-=======
-    {
-      id: 'Chat',
-      title: 'Chat',
-      type: 'item',
-      url: '/business/chat',
-      icon: icons.IconDownload,
-      breadcrumbs: false
-    }
->>>>>>> 50aee26ee41309eee8d419ec36916c3ef6a9d0fa
   ]
 };
 

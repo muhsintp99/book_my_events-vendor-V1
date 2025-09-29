@@ -17,11 +17,7 @@ import venuemanagement from './vendors/venuemanagement';
 // ==============================|| MENU ITEMS ||============================== //
 
 const menuItems = {
-<<<<<<< HEAD
   items: [dashboard, bookingmanagement,venuemanagement, Driversection, Marketingsection,Businesssection,Reportsection, Employeesection]
-=======
-  items: [dashboard,Tripmanagement,vehiclemanagement,Marketingsection,Businesssection,Reportsection,Employeesection]
->>>>>>> 50aee26ee41309eee8d419ec36916c3ef6a9d0fa
 };
 
 export default menuItems;
